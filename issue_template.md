@@ -1,8 +1,8 @@
-## What did you do before the error occured?  
+## Please explain what the suggestion is.
 
 
-## What happened, and what do you think should have happened?
+## Please provide any screenshots of how the feature should look.
 
 
-## Please provide any screenshots/videos of the error.
+## Please provide any additional information you think is important in regards to the feature.
 
